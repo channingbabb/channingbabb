@@ -6,6 +6,6 @@
 
 <p align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=rust,java,kotlin,ts,tailwind,idea,webstorm,pycharm,docker,cloudflare,css,js,html,react,vue,git,github,gitlab,maven,graphql,linux,ubuntu,nextjs,py,react,regex,php,mysql,mongodb,nginx,r,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,java,kotlin,ts,tailwind,idea,webstorm,pycharm,docker,cloudflare,css,js,html,react,vue,git,github,gitlab,maven,graphql,linux,ubuntu,nextjs,py,react,regex,php,mysql,mongodb,nginx,r,redux,azure,aws)](https://skillicons.dev)
 
 </p>
