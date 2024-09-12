@@ -2,7 +2,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=channingbabb&theme=dark&hide_border=true&border_radius=20)](https://git.io/streak-stats)
 
-
 ## Thanks for checking out my GitHub!
 
 - 💻 Developer @ [Tune](https://velbit.app/tune), [Velbit](https://velbit.app) and more!
