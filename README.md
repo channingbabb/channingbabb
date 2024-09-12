@@ -5,5 +5,7 @@
 ## My Skills
 
 <p align="center">
+  
 [![My Skills](https://skillicons.dev/icons?i=rust,java,kotlin,ts,tailwind,idea,webstorm,pycharm,docker,cloudflare,css,js,html,react,vue,git,github,gitlab,maven,graphql,linux,ubuntu,nextjs,py,react,regex,php,mongodb,mariadb,nginx,r,redux)](https://skillicons.dev)
+
 </p>
