@@ -18,6 +18,6 @@
 
 <p align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=rust,cpp,electron,gcpjava,kotlin,ts,tailwind,idea,webstorm,pycharm,docker,cloudflare,css,js,html,react,vue,git,github,gitlab,maven,graphql,linux,ubuntu,nextjs,py,angular,regex,php,mysql,mongodb,nginx,r,redux,azure,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,cpp,electron,gcp,java,kotlin,ts,tailwind,idea,webstorm,pycharm,docker,cloudflare,css,js,html,react,vue,git,github,gitlab,maven,graphql,linux,ubuntu,nextjs,py,angular,regex,php,mysql,mongodb,nginx,r,redux,azure,aws)](https://skillicons.dev)
 
 </p>
